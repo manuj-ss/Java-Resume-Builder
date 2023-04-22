@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="itextpdf-5.5.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CV Generator/src/cv/generator/itextpdf-5.5.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
